@@ -5,7 +5,9 @@ GraphQL,
 CountryAPI and
 [FlagsAPI](https://flagsapi.com/)
 
-
+---
+## On Live
+[Live link to the Project](https://dataguess-country-task.netlify.app/)
 
 ## Installation
 
